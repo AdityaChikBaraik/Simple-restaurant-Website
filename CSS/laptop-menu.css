@@ -1,0 +1,9 @@
+
+#menu{
+     display: flex;
+     justify-content: center;
+     background: black;
+}
+img{
+     border: 4px double white;
+}
